@@ -1,0 +1,76 @@
+{
+  "users": [
+  ],
+    "car_parts": [
+        {
+            "id": 1,
+            "name": "Brake Pad",
+            "manufacturer": "ABC Corp",
+            "price": 50,
+            "category": "Brakes"
+        },
+        {
+            "id": 2,
+            "name": "Engine Oil",
+            "manufacturer": "XYZ Oil Co.",
+            "price": 30,
+            "category": "Engine"
+        },
+        {
+            "id": 3,
+            "name": "Tire",
+            "manufacturer": "TireMaker",
+            "price": 100,
+            "category": "Tires"
+        },
+        {
+            "id": 4,
+            "name": "Air Filter",
+            "manufacturer": "FiltersRUs",
+            "price": 20,
+            "category": "Air System"
+        },
+        {
+            "id": 5,
+            "name": "Airee Filter",
+            "manufacturer": "FiltersRUs",
+            "price": 207,
+            "category": "Air System"
+        },
+        {
+            "id": 6,
+            "name": "207",
+            "manufacturer": "FiltersRUs",
+            "price": 2000,
+            "category": "Air System"
+        },
+        {
+            "id": 7,
+            "name": "Battery",
+            "manufacturer": "PowerPlus",
+            "price": 150,
+            "category": "Electrical"
+        },
+        {
+            "id": 8,
+            "name": "Radiator",
+            "manufacturer": "CoolTech",
+            "price": 300,
+            "category": "Cooling System"
+        },
+        {
+            "id": 9,
+            "name": "Spark Plug",
+            "manufacturer": "IgnitionPro",
+            "price": 10,
+            "category": "Ignition System"
+        },
+        {
+            "id": 10,
+            "name": "Fuel Pump",
+            "manufacturer": "FuelMaster",
+            "price": 250,
+            "category": "Fuel System"
+        }
+    ]
+}
